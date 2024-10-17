@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\StsWorkSpaceForWork\\cpmfcu\\.git;
-GitRepositoriesView.GitDirectories.relative=cpmfcu\\.git;
+GitRepositoriesView.GitDirectories=D\:\\StsWorkSpaceForWork\\cpmfcu\\.git;D\:\\StsWorkSpaceForWork\\.git;
+GitRepositoriesView.GitDirectories.relative=cpmfcu\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

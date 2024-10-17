@@ -34,7 +34,7 @@ public class FundTransferController {
 	 * @throws IOException 
 	 */
 	@PostMapping("/sendTransferRequest")
-	public ResponseEntity<String> fundTransferRequest(@Valid @RequestBody RequestDTO requestDTO) throws IOException{
+	public ResponseEntity<String> fundTransferRequest(@Valid @RequestBody RequestDTO requestDTO){
 		
 		String sendRequest = fundTransferService.sendRequest(requestDTO);
 		
